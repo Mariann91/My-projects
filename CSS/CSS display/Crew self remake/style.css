@@ -1,0 +1,102 @@
+body {
+    background-color: #05081b;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    position: relative;
+}
+
+.header {
+    height: 60px;
+}
+
+nav {
+    width: 60%;
+    height: 20px;
+    position: absolute;
+    top: 40px;
+    left: 20%;
+}
+
+ul {
+    position: relative;
+    bottom: 16px;
+    
+}
+
+li {
+    display: inline;
+    position: relative;
+    color:rgb(176, 176, 235);
+    right: 20px;
+    margin-right: 25px;
+    font-family: Rubik, sans-serif;
+}
+
+.main-container {
+    position: absolute;
+    width: 60%;
+    height: 40em;
+    top: 250%;
+    left: 20%
+}
+
+h1, h2, h3, p {
+    color: white;
+    margin-left: 20px;
+}
+
+img {
+    width: 443px;
+    height: 438px;
+    position: absolute;
+    left: 600px;
+    bottom: 250px;
+}
+
+h2 {
+
+    font-size: 30px;
+    
+}
+
+h1 {
+    font-size: 45px;
+    line-height: 51px;
+    margin-bottom: 32px;
+    margin-left: 20px;
+}
+
+.box1 {
+    position: relative;
+
+    display: inline-block;
+    width: 350px;
+    height: 200px;
+    top: 110px;
+    border: 0.5px solid rgb(220, 64, 139);
+    border-radius: 10px;
+}
+
+.box2 {
+    position: relative;
+    display: inline-block;
+    width: 350px;
+    height: 200px;
+    top: 110px;
+    border: 0.5px solid rgb(220, 64, 139);
+    border-radius: 10px;
+}
+
+.btn {
+    height: 62px;
+    width: 100px;
+    border-radius: 60px;
+    position: relative;
+    left: 15px;
+    color: rgb(220, 64, 139);
+    border: 0.5px solid rgb(220, 64, 139);
+    background-color: #05081b;
+}
