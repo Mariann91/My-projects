@@ -1,0 +1,23 @@
+.container {
+    height: 600px;
+    width: 900px;
+    border: 1px solid;
+    margin: 5%;
+    margin-left: 25%;
+}
+
+.white {
+    height: 200px;
+    width: 100%;
+}
+
+.green {
+    height: 200px;
+    width: 100%;
+    background-color: green;
+}
+.red {
+    height: 200px;
+    width: 100%;
+    background-color: red;
+}
